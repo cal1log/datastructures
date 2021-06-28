@@ -1,5 +1,3 @@
 # data structures
 
-[data structures link](# django
-
-[django link](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB)
+[datastructures link](https://www.youtube.com/watch?v=qvLnteVcC8Q&list=PL1SWSsc5Gso_Cw5Pj2_IAAGuyio0O1x3o)
